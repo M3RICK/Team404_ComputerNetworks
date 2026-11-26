@@ -6,6 +6,8 @@ Computer Networks [ISE2232] project, Team 404. Built in Cisco Packet Tracer 9.0.
 
 Open `team404.pkt` in Cisco Packet Tracer 9.0 or newer. Wait about a minute for STP and OSPF to converge; if a PC has no address, run `ipconfig /renew` in its Command Prompt.
 
+Separate side demo: [`eigrp-demo/`](eigrp-demo/) (EIGRP between two routers: cheatsheet, speaker script, `.pkt`).
+
 ## Topology
 
 ```
